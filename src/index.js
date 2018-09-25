@@ -18,4 +18,4 @@ document.querySelector('#bands').innerHTML = sortedBands.map(function(band){
 }).join('');
 
 
-console.log(sortedBands);
+//console.log(sortedBands);
